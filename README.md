@@ -5,7 +5,7 @@
 <br/>
 
 ## 📞 Contact me
-<a href="https://www.notion.so/be3ec466c09a4432a12fa1c5c7b0e11b" target="_blank">
+<a href="http://wpdudh.notion.site" target="_blank">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
 
